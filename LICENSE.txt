@@ -1,5 +1,5 @@
 Package: cpsms
-Copyright (C) 2023, FIXME <FIXME>
+Copyright (C) 2023, Niels Erik Andersen <nea@tingstroem.dk>
 Licensed under the GNU Affero Public License 3.0 (below).
 
 -------------------------------------------------------------------------------
